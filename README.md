@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the way you move, it’s a dangerous game
+> You spark a little fire, and you’re fanning the flame
+> I want you in my arms before the night slips away
+> No time for the talking, let the rhythm dictate
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
